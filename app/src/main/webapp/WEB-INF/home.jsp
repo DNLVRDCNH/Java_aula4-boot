@@ -7,6 +7,7 @@
 </head>
 <body>
     <h1>Olá mundo</h1>
+    <h1>Saudação: ${msg}</h1>
     
 </body>
 </html>
